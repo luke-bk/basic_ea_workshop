@@ -98,5 +98,5 @@ def evolutionary_algorithm():
         population = new_population
 
 
-# Run the EA
+# Run the EA with this call
 evolutionary_algorithm()
